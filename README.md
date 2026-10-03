@@ -6,8 +6,8 @@
 
 ## English
 
-SwitchTo is a keyboard layout switcher for Windows that fixes your typing for you: text typed in the wrong
-layout (`ghbdtn` → «привет») and typos. Russian, Ukrainian and English.
+SwitchTo fixes your typing on Windows as you type: typos, unknown words and text typed in the wrong keyboard
+layout — and learns from your own corrections. Russian, Ukrainian and English.
 
 ### Download and install
 
@@ -27,13 +27,13 @@ The SwitchTo interface (tray menu and windows) is in Russian; the menu items bel
 
 ### What it does
 
-- **Switches the layout with one key:** right Shift — English, right Ctrl — Russian, right Alt — Ukrainian.
-- **Fixes text typed in the wrong layout** when you press Space: `ghbdtn` → «привет», `руддщ` → "hello".
 - **Fixes typos** when you press Space: «задествовать» → «задействовать». A hint near the cursor shows what was replaced.
-- **Beeps** when a word does not look like any known word.
 - **Learns from you:** a word you keep as typed is remembered; a replacement you undo is not made again.
-- **Leaves password fields alone:** in password fields SwitchTo does not fix anything and does not record what you type.
+- **Beeps** when a word does not look like any known word.
 - **Shows the benefit:** tray → **«Статистика…»** (Statistics) — how much was fixed and how much time it saved you.
+- **Leaves password fields alone:** in password fields SwitchTo does not fix anything and does not record what you type.
+- **Fixes text typed in the wrong layout** when you press Space: `ghbdtn` → «привет», `руддщ` → "hello".
+- **Switches the layout with one key:** right Shift — English, right Ctrl — Russian, right Alt — Ukrainian.
 
 ### Keys and tray menu
 
@@ -59,12 +59,17 @@ effect immediately.
 
 Windows Settings → Apps → SwitchTo → Uninstall.
 
+### License
+
+SwitchTo © WiMGa. Third-party components (libraries, dictionaries) and their licenses: tray → **«Лицензии…»** (Licenses),
+file `THIRDPARTY-LICENSES.md` next to the program. Sounds and icons are SwitchTo's own.
+
 ---
 
 ## Русский
 
-SwitchTo — переключатель раскладки для Windows, который исправляет за Вас: текст, набранный не в той раскладке
-(`ghbdtn` → «привет»), и опечатки. Русский, украинский, английский.
+SwitchTo исправляет набор в Windows прямо по ходу: опечатки, незнакомые слова и текст, набранный не в той раскладке, —
+и учится на Ваших собственных исправлениях. Русский, украинский, английский.
 
 ### Скачать и установить
 
@@ -83,13 +88,13 @@ SwitchTo запускается вместе с Windows. Обновления п
 
 ### Что делает
 
-- **Переключает раскладку одной клавишей:** правый Shift — English, правый Ctrl — русская, правый Alt — українська.
-- **Исправляет текст, набранный не в той раскладке,** на пробеле: `ghbdtn` → «привет», `руддщ` → «hello».
 - **Исправляет опечатки** на пробеле: «задествовать» → «задействовать». Подсказка у курсора показывает, что заменено.
-- **Сигналит**, если слово не похоже ни на одно известное.
 - **Учится у Вас:** слово, которое Вы оставляете как есть, запоминает; замену, которую Вы отменяете, больше не делает.
-- **Не трогает поля пароля:** в них SwitchTo ничего не исправляет и не записывает набранное.
+- **Сигналит**, если слово не похоже ни на одно известное.
 - **Считает пользу:** трей → **«Статистика…»** — сколько исправлено и сколько времени сэкономлено.
+- **Не трогает поля пароля:** в них SwitchTo ничего не исправляет и не записывает набранное.
+- **Исправляет текст, набранный не в той раскладке,** на пробеле: `ghbdtn` → «привет», `руддщ` → «hello».
+- **Переключает раскладку одной клавишей:** правый Shift — English, правый Ctrl — русская, правый Alt — українська.
 
 ### Клавиши и меню трея
 
@@ -113,3 +118,8 @@ SwitchTo отправляет статистику набора (счётчик�
 ### Удалить
 
 Параметры Windows → Приложения → SwitchTo → Удалить.
+
+### Лицензия
+
+SwitchTo © WiMGa. Сторонние компоненты (библиотеки, словари) и их лицензии: трей → **«Лицензии…»**,
+файл `THIRDPARTY-LICENSES.md` рядом с программой. Звуки и иконки — собственные SwitchTo.
