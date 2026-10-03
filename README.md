@@ -61,6 +61,8 @@ Windows Settings → Apps → SwitchTo → Uninstall.
 
 ### License
 
+Free for personal non-commercial use; commercial use — on request.
+
 SwitchTo © WiMGa. Third-party components (libraries, dictionaries) and their licenses: tray → **«Лицензии…»** (Licenses),
 file `THIRDPARTY-LICENSES.md` next to the program. Sounds and icons are SwitchTo's own.
 
@@ -120,6 +122,8 @@ SwitchTo отправляет статистику набора (счётчик�
 Параметры Windows → Приложения → SwitchTo → Удалить.
 
 ### Лицензия
+
+Бесплатно для личного некоммерческого использования, коммерческое — по запросу.
 
 SwitchTo © WiMGa. Сторонние компоненты (библиотеки, словари) и их лицензии: трей → **«Лицензии…»**,
 файл `THIRDPARTY-LICENSES.md` рядом с программой. Звуки и иконки — собственные SwitchTo.
