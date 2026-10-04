@@ -6,7 +6,7 @@
 
 ## English
 
-SwitchTo fixes your typing on Windows as you type: typos, unknown words and text typed in the wrong keyboard
+**Smart Typing.** SwitchTo fixes your typing on Windows as you type: typos, unknown words and text typed in the wrong keyboard
 layout — and learns from your own corrections. Russian, Ukrainian and English.
 
 ### Download and install
@@ -44,6 +44,8 @@ The SwitchTo interface (tray menu and windows) is in Russian; the menu items bel
 - Tray → **«Почему так?…»** (Why?) — the latest decisions with reasons; you can also check any text there.
 - Tray → **«Пауза — не исправлять»** (Pause — do not fix) — turn corrections off for a while.
 - Tray → **«Добавить слово в словарь…»** (Add word to dictionary) — teach SwitchTo a word it does not know.
+- Tray → **«Звуки»** (Sounds) — the sound set: **standard** or **soft** (quieter and mellower); below it, the volume of
+  each sound separately — key tick, layout switch, unknown-word signal (off / 50 / 100 / 150%).
 
 ### What is sent and how to turn it off
 
@@ -70,7 +72,7 @@ file `THIRDPARTY-LICENSES.md` next to the program. Sounds and icons are SwitchTo
 
 ## Русский
 
-SwitchTo исправляет набор в Windows прямо по ходу: опечатки, незнакомые слова и текст, набранный не в той раскладке, —
+**Интеллектуальный ввод текста.** SwitchTo исправляет набор в Windows прямо по ходу: опечатки, незнакомые слова и текст, набранный не в той раскладке, —
 и учится на Ваших собственных исправлениях. Русский, украинский, английский.
 
 ### Скачать и установить
@@ -107,6 +109,8 @@ SwitchTo запускается вместе с Windows. Обновления п
 - Трей → **«Почему так?…»** — последние решения с причинами; там же можно проверить любой текст.
 - Трей → **«Пауза — не исправлять»** — временно выключить исправления.
 - Трей → **«Добавить слово в словарь…»** — научить SwitchTo слову, которого он не знает.
+- Трей → **«Звуки»** — набор звуков: **стандартный** или **мягкий** (тише и глуше); ниже — громкость каждого звука
+  отдельно: тик при печати, переключение раскладки, сигнал неизвестного слова (выкл. / 50 / 100 / 150%).
 
 ### Что отправляется и как выключить
 
