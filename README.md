@@ -57,6 +57,8 @@ Tray → **«Что отправляется…»** (What is sent) shows exactly
 **«Отправлять статистику и ошибки»** (Send statistics and errors) check box at the top of that window — it takes
 effect immediately.
 
+Full privacy policy: [PRIVACY.md](PRIVACY.md).
+
 ### Uninstall
 
 Windows Settings → Apps → SwitchTo → Uninstall.
@@ -120,6 +122,8 @@ SwitchTo отправляет статистику набора (счётчик�
 
 Трей → **«Что отправляется…»** показывает всё как есть. Чтобы не отправлять, снимите галочку
 **«Отправлять статистику и ошибки»** вверху этого окна — действует сразу.
+
+Полная политика конфиденциальности: [PRIVACY.md](PRIVACY.md#политика-конфиденциальности-switchto).
 
 ### Удалить
 
