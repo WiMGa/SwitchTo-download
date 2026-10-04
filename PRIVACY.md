@@ -1,17 +1,17 @@
 [English](#switchto-privacy-policy) · [Русский](#политика-конфиденциальности-switchto)
 
 # SwitchTo Privacy Policy
-Publisher: Vitalii Haidabrus (WiMGa). Effective: <DATE>.
+Publisher: Vitalii Haidabrus (WiMGa). Effective: 04.10.2026.
 
 SwitchTo is a Windows text input assistant. It corrects typing mistakes and typos as you type, learns from your corrections, and also fixes text typed in the wrong keyboard layout.
 
-What stays on your computer. SwitchTo processes keystrokes locally. Your full typed text is never sent. Settings, your personal dictionary and local statistics are stored in the app data folder on your computer. If SwitchTo was installed from Microsoft Store, uninstalling it removes this folder, including your personal dictionary. On first start SwitchTo checks the clipboard once, only for an invitation code from the SwitchTo page; nothing else in the clipboard is read or stored.
+What stays on your computer. SwitchTo processes keystrokes locally. Your full typed text is never sent. Settings, your personal dictionary and local statistics are stored in the app data folder on your computer. If SwitchTo was installed from Microsoft Store, uninstalling it removes this folder, including your personal dictionary.
 
 What is sent. To improve correction quality, SwitchTo sends to our server:
 - Installation data: a random installation ID (not linked to your name or Microsoft account), app version, Windows version, enabled keyboard languages.
 - Hourly usage counters: numbers of layout fixes, typo corrections, undos and similar events.
 - Correction events: the single word that was corrected or left unchanged, its replacement and alternative candidates, the outcome (for example, whether you undid it), the name of the application where it happened, and up to 6 neighbouring words for context.
-- Invitation data: your invitation code (a random 6-character code shown in the tray under «Поделиться SwitchTo…», "Share SwitchTo") and, if you confirmed or entered it, the code of the person who invited you. The code is used only to count who invited whom and is not linked to your name.
+- Invitation data: your invitation code (a random 6-character code shown in the tray under «Поделиться SwitchTo…», "Share SwitchTo") and, if you installed SwitchTo from someone's invitation link or entered a code, the code of the person who invited you. The code is used only to count who invited whom and is not linked to your name.
 
 No full sentences or documents are sent. In password fields SwitchTo does not process, record or send anything. Words that look like passwords are hidden before sending.
 
@@ -26,17 +26,17 @@ Contact: switchto.help@gmail.com
 ---
 
 # Политика конфиденциальности SwitchTo
-Издатель: Vitalii Haidabrus (WiMGa). Действует с <DATE>.
+Издатель: Vitalii Haidabrus (WiMGa). Действует с 04.10.2026.
 
 SwitchTo — помощник текстового ввода для Windows: исправляет ошибки набора и опечатки прямо при наборе, учится на Ваших исправлениях и также исправляет текст, набранный не в той раскладке.
 
-Что остаётся на компьютере. Нажатия клавиш SwitchTo обрабатывает локально. Полный набранный текст никуда не отправляется. Настройки, личный словарь и локальная статистика хранятся в папке данных программы на Вашем компьютере. Если SwitchTo установлен из Microsoft Store, при удалении программы эта папка удаляется вместе с личным словарём. При первом запуске SwitchTo один раз проверяет буфер обмена — только на код приглашения со страницы SwitchTo; остальное содержимое буфера не читается и не сохраняется.
+Что остаётся на компьютере. Нажатия клавиш SwitchTo обрабатывает локально. Полный набранный текст никуда не отправляется. Настройки, личный словарь и локальная статистика хранятся в папке данных программы на Вашем компьютере. Если SwitchTo установлен из Microsoft Store, при удалении программы эта папка удаляется вместе с личным словарём.
 
 Что отправляется. Чтобы улучшать исправления, SwitchTo отправляет на наш сервер:
 - данные установки: случайный номер установки (не связан с именем или учётной записью Microsoft), версию программы, версию Windows, включённые языки клавиатуры;
 - почасовые счётчики: сколько было исправлений раскладки, опечаток, отмен и подобных событий;
 - события исправлений: одно исправленное или оставленное слово, замену и другие варианты, исход (например, отменили ли Вы замену), название программы, где это было, и до 6 соседних слов для контекста;
-- данные приглашений: Ваш код приглашения (случайный код из 6 знаков, трей → «Поделиться SwitchTo…») и, если Вы подтвердили или ввели его, код того, кто Вас пригласил. Код нужен только для учёта, кто кого пригласил, и не связан с Вашим именем.
+- данные приглашений: Ваш код приглашения (случайный код из 6 знаков, трей → «Поделиться SwitchTo…») и, если SwitchTo установлен по чьей-то ссылке-приглашению или Вы ввели код, код того, кто Вас пригласил. Код нужен только для учёта, кто кого пригласил, и не связан с Вашим именем.
 
 Целые предложения и документы не отправляются. В полях ввода пароля SwitchTo ничего не обрабатывает, не записывает и не отправляет. Слова, похожие на пароль, перед отправкой скрываются.
 
