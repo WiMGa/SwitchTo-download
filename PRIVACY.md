@@ -1,7 +1,7 @@
 [English](#switchto-privacy-policy) · [Русский](#политика-конфиденциальности-switchto)
 
 # SwitchTo Privacy Policy
-Publisher: <PUBLISHER>. Effective: <DATE>.
+Publisher: Vitalii Haidabrus (WiMGa). Effective: <DATE>.
 
 SwitchTo is a Windows text input assistant. It corrects typing mistakes and typos as you type, learns from your corrections, and also fixes text typed in the wrong keyboard layout.
 
@@ -26,7 +26,7 @@ Contact: switchto.help@gmail.com
 ---
 
 # Политика конфиденциальности SwitchTo
-Издатель: <PUBLISHER>. Действует с <DATE>.
+Издатель: Vitalii Haidabrus (WiMGa). Действует с <DATE>.
 
 SwitchTo — помощник текстового ввода для Windows: исправляет ошибки набора и опечатки прямо при наборе, учится на Ваших исправлениях и также исправляет текст, набранный не в той раскладке.
 
