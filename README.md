@@ -33,7 +33,8 @@ The SwitchTo interface (tray menu and windows) is in Russian; the menu items bel
 - **Shows the benefit:** tray → **«Статистика…»** (Statistics) — how much was fixed and how much time it saved you.
 - **Leaves password fields alone:** in password fields SwitchTo does not fix anything and does not record what you type.
 - **Fixes text typed in the wrong layout** when you press Space: `ghbdtn` → «привет», `руддщ` → "hello".
-- **Switches the layout with one key:** right Shift — English, right Ctrl — Russian, right Alt — Ukrainian.
+- **Switches the layout with one key:** right Shift — English, right Ctrl — Russian, right Alt — Ukrainian
+  (on a new installation — by the layouts installed in Windows; change it: tray → **«Клавиши…»**, Keys).
 
 ### Keys and tray menu
 
@@ -100,7 +101,8 @@ SwitchTo запускается вместе с Windows. Обновления п
 - **Считает пользу:** трей → **«Статистика…»** — сколько исправлено и сколько времени сэкономлено.
 - **Не трогает поля пароля:** в них SwitchTo ничего не исправляет и не записывает набранное.
 - **Исправляет текст, набранный не в той раскладке,** на пробеле: `ghbdtn` → «привет», `руддщ` → «hello».
-- **Переключает раскладку одной клавишей:** правый Shift — English, правый Ctrl — русская, правый Alt — українська.
+- **Переключает раскладку одной клавишей:** правый Shift — English, правый Ctrl — русская, правый Alt — українська
+  (в новой установке — по раскладкам, установленным в Windows; изменить: трей → **«Клавиши…»**).
 
 ### Клавиши и меню трея
 
