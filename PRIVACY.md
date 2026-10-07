@@ -21,8 +21,6 @@ Where and how long. Data is stored with Supabase in the European Union (Frankfur
 
 Your control. The tray menu item «Что отправляется…» ("What is sent…") shows exactly what is sent and has a checkbox to turn sending off at any time. While sending is off, nothing is queued for sending. You can request deletion of the data of your installation by e-mail.
 
-License: free for personal, non-commercial use. Commercial use requires a license — contact us.
-
 Contact: switchto.help@gmail.com
 
 ---
@@ -47,7 +45,5 @@ SwitchTo — помощник текстового ввода для Windows: и
 Где и сколько хранится. Данные хранятся в Supabase в Евросоюзе (Франкфурт, Германия). Программа может только добавлять данные, прочитать их обратно она не может. По сетевому адресу каждого запроса сервер записывает только приблизительное место Вашей установки: страну, а где доступно — регион и город; сам IP-адрес в базе не хранится. Хостинг ведёт технические журналы запросов, в том числе с IP-адресами, и хранит их недолго — для работы и безопасности. Данные используются только для улучшения SwitchTo и статистики использования, не продаются и не передаются третьим лицам. Хранятся, только пока нужны для этой цели.
 
 Ваш контроль. Пункт меню трея «Что отправляется…» показывает, что именно уходит, и в нём есть галочка, которой отправку можно выключить в любой момент. Пока отправка выключена, в очередь на отправку ничего не попадает. Удалить данные Вашей установки можно по запросу на e-mail.
-
-Лицензия: бесплатно для личного некоммерческого использования. Для коммерческого использования нужна лицензия — напишите нам.
 
 Контакт: switchto.help@gmail.com
